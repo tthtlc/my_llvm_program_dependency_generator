@@ -43,7 +43,7 @@ cd build
 cmake ..
 make
 opt -load libpdg.so -dot-pdg < hello.bc
-dot -Tpng hello.dot -o hello.png
+dot -Tpng pdgragh.main.dot -o hello.png
 ```
 
 The last operation is using dot command to read in the dotfile and output a png file.
