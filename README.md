@@ -6,7 +6,7 @@ This program is to generate a program dependence graph.
 
 ## References
 
-### Download the specific version of LLVM:
+### Download the specific version of LLVM (9.0.0 is required):
 
 https://releases.llvm.org/download.html
 
